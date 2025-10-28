@@ -1,6 +1,6 @@
 {
   "name": "react-native-wallpapers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple and powerful React Native module that allows users to pick an image from their device and instantly set it as wallpaper.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -42,8 +42,13 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "wallpaper",
+    "android",
+    "set-wallpaper",
+    "android-wallpaper",
+    "image-picker",
+    "image-wallpaper",
+    "react-native-module"
   ],
   "repository": {
     "type": "git",
